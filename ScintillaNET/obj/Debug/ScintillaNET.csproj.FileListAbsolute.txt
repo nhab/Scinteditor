@@ -1,0 +1,6 @@
+C:\Users\NIMAM.HABIBOLLAHI.CONSOLSYS\Desktop\ScintillaNET-master\src\ScintillaNET\bin\Debug\ScintillaNET.xml
+C:\Users\NIMAM.HABIBOLLAHI.CONSOLSYS\Desktop\ScintillaNET-master\src\ScintillaNET\bin\Debug\ScintillaNET.dll
+C:\Users\NIMAM.HABIBOLLAHI.CONSOLSYS\Desktop\ScintillaNET-master\src\ScintillaNET\bin\Debug\ScintillaNET.pdb
+C:\Users\NIMAM.HABIBOLLAHI.CONSOLSYS\Desktop\ScintillaNET-master\src\ScintillaNET\obj\Debug\ScintillaNET.csprojResolveAssemblyReference.cache
+C:\Users\NIMAM.HABIBOLLAHI.CONSOLSYS\Desktop\ScintillaNET-master\src\ScintillaNET\obj\Debug\ScintillaNET.dll
+C:\Users\NIMAM.HABIBOLLAHI.CONSOLSYS\Desktop\ScintillaNET-master\src\ScintillaNET\obj\Debug\ScintillaNET.pdb
